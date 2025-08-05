@@ -12,9 +12,8 @@ This SAP ABAP project is an ALV report to display material stock details such as
 - Stock in Quality Inspection (INSME)
 The report retrieves data using INNER JOIN from the MARA and MARD tables and displays it in an ALV Grid with auto column optimization and a zebra pattern for better readability.
 
-SAP Tables Used
+SAP Table Used
 - MARA – General Material Data
-- MARD – Storage Location Stock Data
 
 Features
 Selection Screen to filter materials by Material Number (MATNR)
